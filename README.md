@@ -1,7 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 <h1 align="center">🚀 Desenvolvedor Full-Stack & entusiasta de tecnologia</h1>
 <p align="center">
-  <img width="200" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="logo futurista"/>
 </p>
 
  *Olá! Eu sou Marcos Silva* — gaúcho, 16 anos, apaixonado por criar experiências web que misturam *design futurista* e *código performático*.  
